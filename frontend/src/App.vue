@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
+  <q-layout id="app">
     <router-view/>
-  </div>
+  </q-layout>
 </template>
 
 <style>

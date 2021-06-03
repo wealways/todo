@@ -11,7 +11,7 @@
         >
       </div>
       <div>
-        <label for="password">비밀번호 확인</label>
+        <label for="password">비밀번호</label>
         <input 
           v-model="password"
           type="password" 
